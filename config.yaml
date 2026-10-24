@@ -1,0 +1,38 @@
+project:
+  name: "SIADS696_market-regimes-volatility"
+  title: "Market Regimes and Equity Volatility"
+  start_date: "2000-01-01"
+  end_date: "2026-09-30"
+  trading_days: 252
+  horizons: [5, 10, 20]
+  train_end: "2018-12-31"
+  validation_end: "2021-12-31"
+  test_end: "2026-09-30"
+  random_seed: 42
+paths:
+  root: "."
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  figures: "figures"
+  results: "results"
+  notebooks: "notebooks"
+  report: "report"
+  src: "src"
+  tests: "tests"
+source_codes:
+  market:
+    - "^GSPC"
+    - "^VIX"
+    - "CL=F"
+    - "^TNX"
+    - "SPY"
+  macro:
+    - "DGS2"
+    - "DGS10"
+    - "T10Y2Y"
+    - "DCOILWTICO"
+    - "BAMLH0A0HYM2"
+    - "DFF"
+  validation:
+    - "^GSPC"
+    - "^VIX"

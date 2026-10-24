@@ -1,0 +1,20 @@
+{
+  "rows": 6977,
+  "columns": 11,
+  "missing_total": 0,
+  "missing_by_column": {
+    "^GSPC": 0,
+    "^VIX": 0,
+    "CL=F": 0,
+    "^TNX": 0,
+    "SPY": 0,
+    "DGS2": 0,
+    "DGS10": 0,
+    "T10Y2Y": 0,
+    "DCOILWTICO": 0,
+    "BAMLH0A0HYM2": 0,
+    "DFF": 0
+  },
+  "date_start": "2000-01-03",
+  "date_end": "2026-09-29"
+}

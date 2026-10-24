@@ -1,0 +1,2 @@
+n_clusters,n_observations,overall_silhouette,davies_bouldin,negative_silhouette_share,cluster_1_n,cluster_2_n,cluster_1_share,cluster_2_share
+2,6957,0.26601153685026074,1.5120324827662697,0.010205548368549663,4650,2307,0.6683915480810694,0.33160845191893057

@@ -1,0 +1,23 @@
+{
+  "download_date": "2026-10-20T22:01:58.060997+00:00",
+  "start_date": "2000-01-01",
+  "end_date": "2026-09-30",
+  "market_symbols": [
+    "^GSPC",
+    "^VIX",
+    "CL=F",
+    "^TNX",
+    "SPY"
+  ],
+  "macro_series": [
+    "DGS2",
+    "DGS10",
+    "T10Y2Y",
+    "DCOILWTICO",
+    "BAMLH0A0HYM2",
+    "DFF"
+  ],
+  "market_rows": 6732,
+  "macro_rows": 9770,
+  "combined_rows": 6732
+}

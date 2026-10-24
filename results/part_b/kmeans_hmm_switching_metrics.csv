@@ -1,0 +1,3 @@
+model,n_observations,n_switches,switching_rate,mean_run_duration,median_run_duration,date_start,date_end
+HMM,6957,2725,0.39174813110983325,2.5530275229357797,1.0,2000-01-31,2026-09-29
+K-means,6957,11,0.0015813686026451984,632.4545454545455,130.0,2000-01-31,2026-09-29
